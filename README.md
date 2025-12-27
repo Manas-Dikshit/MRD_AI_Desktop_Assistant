@@ -1,5 +1,7 @@
 # MRD AI Desktop Assistant (Offline Edition)
 
+![CI](https://github.com/Manas-Dikshit/MRD_AI_Desktop_Assistant/actions/workflows/ci.yml/badge.svg)
+
 A fully offline, advanced desktop AI assistant for Windows. It runs in the background, listens for a global hotkey, and uses a local Ollama model for intelligence.
 
 ## Features

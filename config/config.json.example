@@ -1,0 +1,27 @@
+{
+    "assistant": {
+        "name": "MRD",
+        "wake_response": "Yes, I'm listening...",
+        "fallback_response": "Sorry, I didn't catch that.",
+        "voice_id": 0,
+        "speech_rate": 170
+    },
+    "hotkey": "ctrl+shift+m",
+    "wake_word": "hey mrd",
+    "paths": {
+        "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "code": "C:\\Users\\manas\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    "ai": {
+        "model": "llama3",
+        "api_url": "http://localhost:11434/api/generate"
+    },
+    "voice": {
+        "model_path": "model",
+        "language": "en-us",
+        "available_models": {
+            "en-us": "model",
+            "hi": "model_hi"
+        }
+    }
+}

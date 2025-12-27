@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+keyboard
+requests
+vosk
+pystray
+Pillow
+rich
+pyaudio

@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# Project Specific
+logs/
+model/
+model_hi/
+*.log
+config/config.json
+# Keep the example config
+!config/config.json.example
+
+# OS Generated
+.DS_Store
+Thumbs.db
